@@ -1,0 +1,1220 @@
+{
+  "description": "Centralized list of known adware/malware indicators and safe applications.",
+  "adware_packages": [
+    "com.dencreak.dlcalculator",
+    "*oxfordbuscompany*",
+    "rocks.video.videoplayer",
+    "musicplayer.musicapps.music.mp3player",
+    "musicplayer.musicapps*",
+    "com.smartlife.nebula",
+    "com.a0soft.gphone.acc.free",
+    "roshag.chat.enhance.iushx",
+    "com.apples.qrcreator",
+    "com.ion.code.sentry",
+    "com.cannon.physiqueprofiler",
+    "com.trashbuster.cleanhyper",
+    "com.nmyfun.hpaint",
+    "religion.divine.calendar.app",
+    "com.oasis.drinktracker.healthapp",
+    "com.rabbit.glucosediary",
+    "com.tartar.light.lead",
+    "com.codeNow.bgrpictotextapp",
+    "com.letters.bodyfast",
+    "health.care.heart.entry",
+    "com.volleyball.sipsmart",
+    "com.note.nook.nootbook",
+    "com.note.log.notebook.text.trek",
+    "com.dsgdddfsdgf.dvsdcs",
+    "com.tome.answer.book.forandroid",
+    "com.twinkle.note.halfwaytool",
+    "com.bp.navigator.bloodpressure.application",
+    "poaed.virtual.entity.tavbu",
+    "com.everycount.recordexpenses",
+    "com.putt.qrhunter",
+    "com.spiders.turbopdf",
+    "com.befbefsd.syfbfhgggg.ntevboka",
+    "com.fitcalc.healthcare.bmi.fitbmi",
+    "com.tomatoes.qrafter",
+    "com.eareye.armhk.ftt",
+    "com.wave.watcher.health.recorder",
+    "com.skii.dlf",
+    "com.flashlightscanner.creator",
+    "com.dragon.scribe.notebook.myth",
+    "datetime.calculate.time.wise",
+    "com.starce.pulsemap",
+    "com.antac.spritzy",
+    "com.glove.slimbmi",
+    "com.leadlife.knowledge.ark",
+    "com.care.olsk",
+    "com.magnify.sharp.sight",
+    "com.donkey.healthline",
+    "com.Qezxc.Tdfdz.gddp",
+    "com.bloody.buddy.bp.blood",
+    "com.sigture.femplce.cell.cdcd",
+    "com.ufuopo.magic.frame",
+    "com.wallpapersave.beautifulscene",
+    "com.scubam.notes",
+    "com.untang.cardio.care",
+    "com.privatenumber.textphotos.calculator",
+    "com.cartoon.wallpaper.adorable.setup",
+    "com.potato.journeyquill",
+    "com.imageosis.sourcephrame",
+    "com.apparatus.festtrack",
+    "yaiss.date.master.suiue",
+    "com.pets.quickscan",
+    "com.epicwalls.wallpaper.app",
+    "com.magata.charger",
+    "com.dilige.doc",
+    "com.wallart.craft.fusion.canvas",
+    "com.bee.beat.oplayer",
+    "com.crayon.shapeup",
+    "wall.paper.palette.paperpalette",
+    "com.pressurepoint.bloodpressure.android",
+    "com.black.myth.wukong.journal",
+    "com.vedioscene.cutmaker",
+    "date.time.span.comput",
+    "com.image.frame.construction",
+    "com.moreagent.beyour.wonderf",
+    "com.animal.codeking",
+    "com.lokrrclk.maicahaway.bcash",
+    "com.find.myphone.out",
+    "press.tracker.record.app",
+    "com.zoofv.Gwsa.quote",
+    "com.dochecklist.remarkthings",
+    "com.clipclipnote.notebook",
+    "com.school.paintflow",
+    "com.docuflow.pdfinsight.pulse.nexus.adept",
+    "com.writer.dripdropduo",
+    "com.bookAnswers.Answersmaster",
+    "com.gluco.log.blood.health",
+    "com.beautifuland.stunningwall",
+    "ryouab.pixlayer.wallpaper.giestc",
+    "ygsap.electro.magnetic.field.scanner",
+    "com.support.codeblitz",
+    "com.snail.vitaltrace",
+    "com.efldi.bdbhe",
+    "religious.celebration.guide.app",
+    "com.answer.tome.book",
+    "beauty.wallpaper.gallery.app",
+    "com.turan.antitheft.note",
+    "com.sanit.notekeeper.master",
+    "com.whimsywriter.dailynote",
+    "com.friend.sparkdiary",
+    "com.scannertranslate.useful.nloader",
+    "text.score.count.helper",
+    "com.trandsz.gfdweee.tagtag.discsion",
+    "com.note.lively.notebook.android",
+    "com.logdrink.water.wave.android",
+    "com.snorkel.hydro.habit",
+    "com.prose.inkslinger",
+    "prolimatofa.egg.spiral.dash",
+    "com.Capcap.mamp.totoy",
+    "com.gulp.minder.andorid.application",
+    "com.zoo.frarefew.mkey",
+    "com.todaynote.everydaynote",
+    "com.vvkdio.sout.boxo",
+    "com.emojimaker.enjoyemoji",
+    "com.wisdom.life.answer.book",
+    "com.filefetcher.filesavedownloder",
+    "faithful.holidays.finder.app",
+    "qrocr.code.scan.ease",
+    "com.ladybug.sumatrapdf",
+    "com.building.tagreader",
+    "com.qusad.queszh.prpcipcunm.rews",
+    "com.circlestyle.easybrowser",
+    "com.plusrecord.bp.recorder",
+    "com.taste.scanhub",
+    "com.cobweb.torchup",
+    "com.filebrowser.easytouser",
+    "com.fog.flashseeker",
+    "virtual.nexus.aichat.app",
+    "com.framefy.photoart",
+    "com.legac.sipsync",
+    "com.dynasty.qrique",
+    "com.lance.scan.hawk",
+    "ugiso.spiritual.days.yeisf",
+    "offline.wall.art.paper",
+    "com.riptide.torch",
+    "com.breadof.whnowit.werdz",
+    "com.shape.flipbook",
+    "com.gree.cryyonmyeow.gange",
+    "com.drfq.opmnlight.find",
+    "com.swift.glide.stream.pilot",
+    "quick.qrqr.code.scan",
+    "com.badr.dreamstatus",
+    "com.easycircle.online.browser",
+    "com.trtytrrty.tyhbhn.qwewqdfs.gtgthgrt.uert",
+    "com.dinosaurs.bplog",
+    "com.gvvfzf.wdsd",
+    "com.hydra.hub.scribe.h2odrink",
+    "com.schdck.ctct.bid",
+    "tsaid.stealth.apps.finder",
+    "connection.wifi.link.app",
+    "clear.text.ocr.recognize",
+    "com.moontrack.herbrowser",
+    "com.pulse.journalapp.bpussre",
+    "com.eleven.netswift",
+    "com.spectrum.note.book",
+    "com.codhf.peyf.efo",
+    "com.qritranslate.scanertext",
+    "com.chakok.textbkspird.wsszook",
+    "com.quickmark.qrscanmachine",
+    "com.amused.lightup",
+    "com.ansella.photoeditor.frame",
+    "com.fftreds.ghgfgdfdk.dtdt.stt",
+    "com.phopaper.wallto",
+    "com.drum.beamblitz",
+    "com.health.pressure.pilot",
+    "com.dinner.lightbringer",
+    "com.vmraqcu.pld",
+    "com.snap.visionmate.app",
+    "com.prison.grimace",
+    "com.feeling.shapetrack",
+    "com.bp.circulation.check.health",
+    "com.bookbag.pencilt.erer",
+    "com.needle.pixform",
+    "com.eatrg.Rise.Motivate",
+    "com.industry.perfectbmi",
+    "twisty.egg.race.run",
+    "com.btfdf.Nmfd.Rvsd.sdsa",
+    "com.grandfather.waterwhiz",
+    "com.docu.pdftext.flow.draft.piolt",
+    "com.tree.year",
+    "com.erfedfvgf.azxss.erewd.werfvbs",
+    "com.prodigy.aurora.lume",
+    "com.xasasaf.cdsv",
+    "com.truck.xscan",
+    "com.todogalaxy.list",
+    "com.clear.sound.voice.recorder.management",
+    "vgssea.code.capture.deoig",
+    "com.wilderness.hydr8",
+    "com.sugar.scanmaster",
+    "com.text.word.lexicount",
+    "com.loader.downloader.suitable",
+    "com.toolsquik.schetchwat",
+    "com.behavior.wellnessscope",
+    "com.bbb.eewrew",
+    "com.bysedr.poshk.tutu",
+    "com.drink.aqua.tracker",
+    "com.thirstquest.drink.health",
+    "com.writer.drinkup",
+    "com.textdocusheet.pdfreader",
+    "com.hujkr.Gscas.Qrmanager.maker",
+    "com.bmilog.healthrecorder.bmi",
+    "com.phrameselect.nextlevel",
+    "com.pennycharge.accountup",
+    "com.spectrum.notebook.dairy.book",
+    "com.KCDc.cmkd.sGAB",
+    "com.territory.blink",
+    "com.qewqwer.fdsasdsas.zswsdedeoko.jnm",
+    "com.nicebrowser.verifyartical",
+    "com.comfort.flashscan",
+    "com.wrdup.noterecord.upnote",
+    "com.equin.fury.light",
+    "com.vcdfcx.vbghgfgy.tygdasz.daydu",
+    "com.powder.shapesensei",
+    "junk.clean.file.purge",
+    "com.expense.visual.track",
+    "com.slobb.page.pilot",
+    "com.cuddleframe.cutewallpaper",
+    "com.qrfgsd.hjk.fusion",
+    "text.word.quantify.count",
+    "com.gulp.minder.drink.health",
+    "com.cleanpro.device.performance.cleaner",
+    "com.defea.scan.eagle",
+    "com.boys.vitalflow",
+    "com.askoknook.wokfowt.fvsgsbm",
+    "com.onto.drinksmart",
+    "com.tkdodownloader.onlyfacebook",
+    "com.mice.fastpdf",
+    "com.tendency.waterlog",
+    "com.aivou.peyfellti.treffas",
+    "cardio.heart.rate.log",
+    "com.noneedto.waitbrowser",
+    "com.blood.pres.xhur",
+    "com.cup.application.whidpers.sips",
+    "com.dfcs.erwan.beat",
+    "qrcode.ease.identify.app",
+    "com.quarter.pdfpro",
+    "com.dusahif.coaskjgf",
+    "com.lemonlog.tool",
+    "com.monkey.bodyguide",
+    "com.wave.frink.wavelog.sagerak",
+    "com.wetmeter.recorder.drink.water.health",
+    "com.robust.drink",
+    "com.uylm.goatm",
+    "com.wsesas.fgfctre.opomna",
+    "com.drinkhealth.water.wink",
+    "com.vughgnnfg.fdfdgsfgfs.edxssx.adsdfjk",
+    "com.afterthought.thirsttime",
+    "vision.scan.ocrqr.quickly",
+    "com.horn.nitropdf",
+    "com.utfgop.Sagyuh.noteBokk.welkwe",
+    "com.emotionalquotos.fightingwordsbox",
+    "com.ponder.notebook.remindbook",
+    "com.Redsa.ftrds.zxcv.tger",
+    "com.saveall.fbloader.downloader",
+    "com.photo.yellowclolor.frame",
+    "com.clpclp.trefinder",
+    "com.hdh.tewtwe",
+    "com.qrscan.texttranslate",
+    "com.oeredrt.charcha.boardky.ftsasauop",
+    "com.sullen.glide.text",
+    "com.conamoroll.wallpaper.com",
+    "com.findyour.phone.fast",
+    "com.stride.despise",
+    "com.soulpages.wanderanswer",
+    "com.underwatybop.ffdftakepiece.drik",
+    "wallpaper.wall.scape.app",
+    "com.zczcf.gygyu.ffdd.ruer",
+    "com.stridecounter.stepcalculation",
+    "com.shock.glowup",
+    "com.at.scribe.sphere",
+    "com.pophnbn.gfghghaa.libprrrty",
+    "com.deva.insulineer",
+    "com.fairies.codecatcher",
+    "com.ulikerecoder.swifttrack.tmsv",
+    "com.trewreeew.kjhgfpppp.ftghbgfdsa.fdsa",
+    "com.bnmbvdscc.vgfrtgvttt.asawtart.waterokp",
+    "com.overbite.ink.bender",
+    "com.xxdffvc.Fcszrt.okasnm",
+    "com.pennyrecorder.budget",
+    "com.framep.beauttool",
+    "com.ndgf.werew",
+    "com.lively.note.book",
+    "filehive.junk.cleaner.app",
+    "wallpaper.pixel.stacker.app",
+    "faith.dates.festival.app",
+    "com.luxurious.scan.blitz",
+    "com.Video.Maker.VideoEditor",
+    "com.Disate.sentttanzc.dbhnmok.ftbbftas",
+    "ygvas.scanqr.master.udybc",
+    "com.pdfsaver.filedownload",
+    "com.press.watch.bloodpressure",
+    "com.ewqew.mokgfd.cbokp",
+    "com.abk.asoj",
+    "com.ring.find.phone.tool",
+    "com.daojer.cmdcuky",
+    "com.bears.pulsetrack",
+    "com.chairs.hydrovibe",
+    "com.stick.quenchlog",
+    "com.year.fluidfocus",
+    "com.thirst.quest.drink",
+    "com.syncheart.pulsemight",
+    "com.browserzheng.foundernews",
+    "com.cardiac.pixel.panorama",
+    "com.photoah.editorebrey",
+    "com.peso.quicknet",
+    "com.ground.mystory",
+    "generate.bliss.note.blissnote",
+    "com.systolic.scribe.bloodpressure",
+    "com.card.pixelparser",
+    "com.hidden.apps.disguised.spyware.detector",
+    "com.capture.bp.cardio.blood.health",
+    "artistic.wall.magic.background",
+    "com.bfjk.terdpo.passmake",
+    "com.phobi.lean.life",
+    "com.health.pressurepilot",
+    "convenient.text.count.textcount",
+    "com.drain.lifelog",
+    "com.pictureframe.magicdecloration",
+    "com.kitty.echopages",
+    "com.obsi.nrej.axle",
+    "com.raisetgb.ptdowngrw.uplod.crcra",
+    "com.jail.docuease",
+    "com.bp.vitalsphygmo.healthy",
+    "com.physical.index.bmi",
+    "com.bikes.pdfvault",
+    "com.covboe.vrsa.log",
+    "com.hipainpainter.pipienter",
+    "com.sip.psa",
+    "com.servant.puresip",
+    "com.insurance.glucopath",
+    "com.beautiful.dayweather",
+    "com.destinybook.storybook.wistom",
+    "com.drorowsuaz.water",
+    "com.rake.bodyscale",
+    "com.cachesweep.clean",
+    "com.fiveinarow.nicegame",
+    "com.rate.massmbmi",
+    "com.water.note.mate.fresh.leaf",
+    "com.tmob.AveaOIM",
+    "ru.yandex.yandexnavi",
+    "com.tplink.weather",
+    "com.sbssoft.musicac_fe",
+    "com.ysngvn.prices",
+    "com.dmall.mfandroid",
+    "com.popularapp.periodcalendar",
+    "com.nryaydn95.carparking3d",
+    "com.betafish.adblocksbrowser",
+    "incoming.call.glow.ringer.shine",
+    "free.vpn.unblock.proxy.vpn.master.pro",
+    "com.yeohudifn.wsashi",
+    "com.voicegps.navigationgps.map3",
+    "com.tricolorcat.calculator",
+    "com.tikutu.app",
+    "com.easytechsoftwareee.statussaver",
+    "com.meiuenn.genxbuos",
+    "com.ticimax.androidbase.victoria",
+    "com.sec.android.app.sbrowser.webapk.w61a06179936cfc81918a594acdbbd2031",
+    "com.balancefx.balancefx",
+    "com.easy.currency.extra.androary",
+    "net.bullsoftgsoftware.currencyandgold",
+    "com.coolemoji.emojimaker"
+  ],
+  "known_fixups": {
+
+    "com.betafish.adblocksbrowser": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+
+    "com.dmall.mfandroid": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+
+    "com.piano.tiles.music.game.circles.dancing.beat.magictiles": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+
+    "com.nryaydn95.carparking3d": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+
+    "com.popularapp.periodcalendar": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+
+    "mobeasyapp*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+
+    "mobeasyapp.math.calculator": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+
+    "com.duokan.phone.remotecontroller": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+
+
+    "com.duokan.phone*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+
+    "com.weather.free*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+
+    "com.tmob.AveaOIM": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+
+    "ru.yandex.yandexnavi": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.tplink.weather": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.sbssoft.musicac_fe": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.ysngvn.prices": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+
+    "uk.co.oxfordbuscompany": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+
+    "rocks.video.videoplayer": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+
+    "myfiles.filemanager.fileexplorer.cleaner": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.newandromo.dev*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+
+    "ockbs.holy.dates.cfyeeu": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.newandromo*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.tubazy.pro": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.happymod.apk": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.tlsvpn.tlstunnel": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "instasaver.videodownloader.photodownloader.repost": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.wa.status.app.downloader.photo.video.status": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.glodon.drawingeexplorer": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.amazon.mShop.android.shopping": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.splendapps.torch": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.downlood.sav.whmedia": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.mobikeeper.global": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "xyz.easypro.httpcustom": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*mobikeeper*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "phonecleaner.junkfiles.appmanager.duplicatefileremover.applock": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.stolitomson": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.braintrust.cleaner": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*braintrust.cleaner*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.appgeneration.cleaner": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.piriform.ccleaner": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.nortonmobile.optimizer": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.antivirus.vpn.clean": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*antivirus*.vpn.clean*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.avg.cleaner": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.taryysoft.cleanervpn": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*taryysoft*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.marwa.cleandroid": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*cleandroid*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.mobilenotepadapps.phonecleaner": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.avast.android.cleaner": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.jondev.cleaner": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*jondev*.cleaner*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.azsoft.tapcleaner": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.cleanswell.app": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.a0soft.gphone.acc.free": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*xhelper*": [
+      "su -c 'pm disable --user 0 {pkg}' || pm disable --user 0 {pkg} || true",
+      "su -c 'pm uninstall --user 0 {pkg}' || pm uninstall --user 0 {pkg} || true",
+      "su -c 'rm -rf /data/app/{pkg}-*' || true",
+      "su -c 'rm -rf /data/app/~~{pkg}*' || true",
+      "su -c 'rm -rf /data/data/{pkg}' || true",
+      "su -c 'mount -o remount,rw /system' || true",
+      "su -c 'rm -rf /system/app/*xhelper*' || true",
+      "su -c 'rm -rf /system/priv-app/*xhelper*' || true",
+      "su -c 'find /data/dalvik-cache/ -name \"*{pkg}*\" -exec rm -rf {} \\;' || true",
+      "su -c 'mount -o remount,ro /system' || true"
+    ],
+    "com.google.helper": [
+      "su -c 'pm disable --user 0 {pkg}' || pm disable --user 0 {pkg} || true",
+      "su -c 'pm uninstall --user 0 {pkg}' || pm uninstall --user 0 {pkg} || true",
+      "su -c 'rm -rf /data/app/{pkg}-*' || true",
+      "su -c 'rm -rf /data/data/{pkg}' || true"
+    ],
+    "*com.mufc*": [
+      "su -c 'pm disable --user 0 {pkg}' || pm disable --user 0 {pkg} || true",
+      "su -c 'pm uninstall --user 0 {pkg}' || pm uninstall --user 0 {pkg} || true"
+    ],
+    "*shedun*": [
+      "su -c 'pm disable --user 0 {pkg}' || true",
+      "su -c 'pm uninstall --user 0 {pkg}' || true"
+    ],
+    "*hummingbad*": [
+      "su -c 'pm uninstall --user 0 {pkg}' || pm uninstall --user 0 {pkg} || true"
+    ],
+    "*agentsmith*": [
+      "su -c 'pm uninstall --user 0 {pkg}' || pm uninstall --user 0 {pkg} || true"
+    ],
+    "*copycat*": [
+      "su -c 'pm uninstall --user 0 {pkg}' || pm uninstall --user 0 {pkg} || true"
+    ],
+    "*triada*": [
+      "su -c 'pm disable --user 0 {pkg}' || true",
+      "su -c 'pm uninstall --user 0 {pkg}' || true"
+    ],
+    "*godless*": [
+      "su -c 'pm uninstall --user 0 {pkg}' || pm uninstall --user 0 {pkg} || true"
+    ],
+    "*gooligan*": [
+      "su -c 'pm uninstall --user 0 {pkg}' || pm uninstall --user 0 {pkg} || true"
+    ],
+    "*joker*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*grifthorse*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*faketoken*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*svpeng*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*autolycos*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*harly*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*fleckpe*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*bread*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*judy*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*simbad*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*soraka*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*beiija*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*browserad*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*adlo*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*hiddenad*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*mobidash*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*airpush*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.fakeadsblock": [
+      "pm uninstall --user 0 com.fakeadsblock || true"
+    ],
+    "*rxdrioder*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*euto*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*leadbolt*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*finspy*": [
+      "su -c 'pm uninstall --user 0 {pkg}' || pm uninstall --user 0 {pkg} || true"
+    ],
+    "*pegasus*": [
+      "su -c 'pm uninstall --user 0 {pkg}' || pm uninstall --user 0 {pkg} || true"
+    ],
+    "*exodus*": [
+      "su -c 'pm uninstall --user 0 {pkg}' || pm uninstall --user 0 {pkg} || true"
+    ],
+    "*lipizzan*": [
+      "su -c 'pm uninstall --user 0 {pkg}' || pm uninstall --user 0 {pkg} || true"
+    ],
+    "*sonicspy*": [
+      "su -c 'pm uninstall --user 0 {pkg}' || pm uninstall --user 0 {pkg} || true"
+    ],
+    "*stalkerware*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.adups.fota": [
+      "su -c 'pm disable --user 0 {pkg}' || pm disable --user 0 {pkg} || true",
+      "su -c 'pm uninstall --user 0 {pkg}' || pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.adups.fota.sysoper": [
+      "su -c 'pm disable --user 0 {pkg}' || pm disable --user 0 {pkg} || true",
+      "su -c 'pm uninstall --user 0 {pkg}' || pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.fw.upgrade.sysoper": [
+      "su -c 'pm disable --user 0 {pkg}' || pm disable --user 0 {pkg} || true",
+      "su -c 'pm uninstall --user 0 {pkg}' || pm uninstall --user 0 {pkg} || true"
+    ],
+    "*gmobi*": [
+      "su -c 'pm disable --user 0 {pkg}' || pm disable --user 0 {pkg} || true",
+      "su -c 'pm uninstall --user 0 {pkg}' || pm uninstall --user 0 {pkg} || true"
+    ],
+    "*blankbot*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "*tambir*": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.android.system.helper": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.google.android.helper": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.system.update.service": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.android.security.update": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.wifi.settings.service": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.battery.optimizer.pro": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.android.google.helper": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.app.system.service": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "android.process.media.helper": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.sec.android.security": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.metasploit.stage": [
+      "su -c 'pm uninstall --user 0 {pkg}' || pm uninstall --user 0 {pkg} || true"
+    ],
+
+    "incoming.call.glow.ringer.shine": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "free.vpn.unblock.proxy.vpn.master.pro": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+
+    "de.cellular.ottohybrid": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.yeohudifn.wsashi": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.voicegps.navigationgps.map3": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.tricolorcat.calculator": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.tikutu.app": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+
+    "com.easytechsoftwareee.statussaver": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.meiuenn.genxbuos": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.ticimax.androidbase.victoria": [ 
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.sec.android.app.sbrowser.webapk.w61a06179936cfc81918a594acdbbd2031": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.balancefx.balancefx": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+    "com.easy.currency.extra.androary": [
+      "pm uninstall --user 0 {pkg} || true"
+    ],
+
+    "com.android.settings.security": [
+      "pm uninstall --user 0 {pkg} || true"
+    ]
+  },
+  "ad_sdk_patterns": [
+    "com.google.android.gms.ads",
+    "com.google.ads.mediation",
+    "com.google.android.ads",
+    "com.google.admob",  
+    "com.facebook.ads",
+    "com.facebook.audiencenetwork",
+    "com.applovin",
+    "com.ironsource",
+    "com.unity3d.ads",
+    "com.vungle",
+    "com.liftoff",
+    "com.chartboost",
+    "com.adcolony",
+    "com.startapp",
+    "com.startapp.sdk",
+    "com.tapjoy",
+    "com.inmobi",
+    "com.aerserv",
+    "com.mopub",
+    "com.amazon.device.ads",
+    "com.amazon.mobile.ads",
+    "com.smaato.sdk",
+    "io.presage",
+    "com.ogury",
+    "com.fyber",
+    "com.digitalturbine",
+    "com.appodeal",
+    "com.superawesome",
+    "com.adpumb",
+    "com.pollfish",
+    "com.mintegral",
+    "com.mbridge.msdk",
+    "com.pangle.global",
+    "com.bytedance.sdk",
+    "io.adjoe.sdk",
+    "com.hyprmx.android",
+    "net.app_next",
+    "com.revmob",
+    "com.appnext",
+    "io.apponboard.mopub",
+    "com.apponboard.appodeal",
+    "com.google.ads.mediation.adcolony",
+    "com.google.ads.mediation.applovin",
+    "com.google.ads.mediation.chartboost",
+    "com.google.ads.mediation.facebook",
+    "com.google.ads.mediation.inmobi",
+    "com.google.ads.mediation.ironsource",
+    "com.google.ads.mediation.mopub",
+    "com.google.ads.mediation.tapjoy",
+    "com.google.ads.mediation.unity",
+    "com.google.ads.mediation.vungle",
+    "com.applovin.mediation",
+    "com.ironsource.mediationsdk",
+    "com.google.firebase.analytics",
+    "com.flurry.android",
+    "com.amplitude",
+    "com.mixpanel",
+    "com.appsflyer",
+    "io.branch.sdk",
+    "com.adjust.sdk",
+    "com.singular.sdk",
+    "com.kochava.base",
+    "com.apptimize",
+    "com.localytics.android",
+    "net.hockeyapp.android",
+    "com.microsoft.appcenter",
+    "com.instabug.library"
+  ],
+  "whitelist": [
+    "android",
+    "com.miui.notes",
+    "com.finansbank.mobile.cepsube",
+    "com.muglobal.an",
+    "com.inovel.app.yemeksepeti",
+    "com.google.android.apps.authenticator2",
+    "com.miui.calculator",
+    "com.android.systemui",
+    "com.fibabanka.Fibabanka.mobile",
+    "com.mobillium.papara",
+    "com.ykb.softpos",
+    "tr.gov.turkiye.edevlet.kapisi",
+    "com.tmobtech.halkbank",
+    "finansbank.enpara",
+    "com.vakifbank.mobile",
+    "com.denizbank.mobildeniz",
+    "com.ziraat.ziraatmobil",
+    "com.ykb.android",
+    "com.akbank.android.apps.akbank_direkt",
+    "com.pozitron.iscep",
+    "com.garanti.cepsubesi",
+    "com.android.settings",
+    "com.kuveytturk.mobil",
+    "com.cloud.tr",
+    "com.binance.dev",
+    "com.paribu.app",
+    "com.mexcpro.client",
+    "com.kubi.kucoin",
+    "com.wallet.crypto.trustapp",
+    "org.narkasa",
+    "com.btcturk.pro",
+    "com.coinmarketcap.android",
+    "io.metamask",
+    "com.tradingview.tradingviewapp",
+    "com.binance.dex.android",
+    "pro.huobi",
+    "com.bybit.app",    
+    "com.gateio.gateio",    
+    "com.miui.calculator",
+    "com.whatsapp.w4b",
+    "com.google.android.apps.contacts",
+    "com.google.android.apps.photos",
+    "com.android.launcher",
+    "com.android.launcher3",
+    "com.google.android.gms",
+    "com.google.android.gsf",
+    "com.android.vending",
+    "com.google.android.webview",
+    "com.android.webview",
+    "com.google.android.syncadapters.contacts",
+    "com.google.android.syncadapters.calendar",
+    "com.android.providers.downloads",
+    "com.android.providers.media",
+    "com.android.providers.media.module",
+    "com.android.providers.telephony",
+    "com.android.providers.settings",
+    "com.android.providers.userdictionary",
+    "com.android.inputmethod.latin",
+    "com.google.android.inputmethod.latin", 
+    "com.android.contacts",
+    "com.google.android.apps.messaging",
+    "com.android.mms",
+    "com.google.android.gm",
+    "com.google.android.calendar",
+    "com.google.android.chrome",
+    "com.android.chrome",
+    "com.google.android.youtube",  
+    "com.google.android.apps.maps",
+    "com.google.android.tts",
+    "com.google.android.connectivitycheck",
+    "com.google.android.onetimeinitializer",
+    "com.google.android.setupwizard",
+    "com.google.android.partnersetup",
+    "com.google.android.apps.docs",
+    "com.google.android.apps.sheets",
+    "com.google.android.apps.slides",
+    "com.google.android.apps.cloudprint",
+    "com.google.android.music",
+    "com.google.android.videos",
+    "com.google.android.apps.tachyon",
+    "com.google.android.apps.nexuslauncher",
+    "com.google.android.googlequicksearchbox",
+    "com.google.android.apps.searchlite",
+    "com.google.android.instantapps.supervisor",
+    "com.google.android.apps.safetyhub",
+    "com.google.android.apps.wellbeing",
+    "com.google.android.wearable.sysui",
+    "com.google.android.wearable.sys",
+    "com.google.android.configupdater",
+    "com.google.android.ext.services",
+    "com.google.android.gsf.login",
+    "com.google.android.nearby.halfsheet",
+    "com.google.android.overlay.gmsconfig",
+    "com.google.android.permissioncontroller",
+    "com.google.android.printservice.recommendation",
+    "com.google.android.networkstack.permissionconfig",
+    "com.google.android.modulemetadata",
+    "com.google.android.networkstack",
+    "com.google.mainline.telemetry",
+    "com.android.permissioncontroller",
+    "com.android.permission",
+    "com.android.packageinstaller",
+    "com.android.keychain",
+    "com.android.location.fused",
+    "com.android.managedprovisioning",
+    "com.android.mtp",
+    "com.android.nfc",
+    "com.ykb.avm",
+    "com.teb.kurumsal",
+    "com.vakifkatilim.mobil",
+    "com.tfkb",
+    "com.android.shell",
+    "com.android.wallpaperbackup",
+    "com.android.wallpapercropper",
+    "com.android.providers.blockednumber",
+    "com.android.providers.calendar",
+    "com.android.providers.contacts",
+    "com.android.captiveportallogin",
+    "com.android.documentsui",
+    "com.android.externalstorage",
+    "com.android.htmlviewer",
+    "com.android.companiondevicemanager",
+    "com.android.carrierconfig",
+    "com.android.carrierdefaultapp",
+    "com.android.certinstaller",
+    "com.android.networkstack",
+    "com.android.pacprocessor",
+    "com.android.proxyhandler",
+    "com.android.simappdialog",
+    "com.android.stk",
+    "com.android.stk2",
+    "com.android.theme.icon",
+    "com.android.traceur",
+    "com.android.cellbroadcastreceiver",
+    "com.android.cellbroadcastservice",
+    "com.android.bips",
+    "com.android.bluetoothmidiservice",
+    "com.whatsapp",
+    "com.whatsapp.w4b",
+    "org.telegram.messenger",
+    "org.telegram.messenger.beta",
+    "org.telegram.messenger.web",
+    "com.instagram.android",
+    "com.facebook.katana",
+    "com.facebook.lite",
+    "com.facebook.orca",
+    "com.facebook.mlite",
+    "com.twitter.android",
+    "com.snapchat.android",
+    "com.skype.raider",
+    "com.discord",
+    "com.zhiliaoapp.musically",
+    "com.ss.android.ugc.trill",
+    "com.ss.android.ugc.aweme",
+    "com.pinterest",
+    "com.linkedin.android",
+    "us.zoom.videomeetings",
+    "com.microsoft.teams",
+    "com.slack",
+    "com.reddit.frontpage",
+    "tv.twitch.android.app",
+    "org.mozilla.firefox",
+    "org.mozilla.firefox_beta",
+    "org.mozilla.focus",
+    "com.brave.browser",
+    "com.opera.browser",
+    "com.opera.mini.native",
+    "com.opera.gx",
+    "com.microsoft.emmx",
+    "com.duckduckgo.mobile.android",
+    "com.vanced.android.youtube",
+    "com.google.android.apps.youtube.music",
+    "com.spotify.music",
+    "com.netflix.mediaclient",
+    "com.amazon.avod.thirdpartyclient",
+    "com.hbo.hbonow",
+    "tv.hulu.plus",
+    "com.disney.disneyplus",
+    "com.termux",
+    "com.termux.api",
+    "com.termux.styling",
+    "com.termux.widget",
+    "com.amazon.mShop.android.shopping",
+    "com.ebay.mobile",
+    "com.alibaba.aliexpresshd",
+    "com.paypal.android.p2pmobile",
+    "com.google.android.apps.walletnfcrel",
+    "com.adobe.reader",
+    "com.adobe.scan.android",
+    "com.microsoft.office.word",
+    "com.microsoft.office.excel",
+    "com.microsoft.office.powerpoint",
+    "com.microsoft.office.outlook",
+    "com.microsoft.skydrive",
+    "com.wps.office",
+    "cn.wps.moffice_eng",
+    "com.ghisler.android.TotalCommander",
+    "pl.solidexplorer2",
+    "com.alphainventor.filemanager",
+    "com.google.android.apps.nbu.files",
+    "com.google.android.apps.tasks",
+    "com.google.android.keep",
+    "com.google.android.apps.translate",
+    "com.google.android.apps.podcasts",
+    "com.google.android.apps.magazines",
+    "com.android.calculator2",
+    "com.google.android.calculator",
+    "com.android.deskclock",
+    "com.google.android.deskclock",
+    "com.android.soundrecorder",
+    "com.google.android.soundrecorder",
+    "com.shazam.android",
+    "com.authy.authy",
+    "org.videolan.vlc",
+    "com.mxtech.videoplayer.ad",
+    "com.mxtech.videoplayer.pro",
+    "com.dropbox.android",
+    "com.evernote",
+    "com.google.ar.core",
+    "com.google.ar.lens",
+    "com.ubercab",
+    "com.ubercab.driver",
+    "lyft.android",
+    "com.google.android.apps.fitness",
+    "com.strava",
+    "com.runtastic.android",
+    "com.duolingo",
+    "com.accuweather.android",
+    "com.weather.Weather",
+    "com.jetbrains.space",
+    "com.valvesoftware.android.steam.community",
+    "com.agilebits.onepassword",
+    "com.bitwarden.mobile",
+    "com.lastpass.lpandroid",
+    "com.dashlane",
+    "keepass2android.keepass2android",
+    "com.kunzisoft.keepass.free",
+    "ch.protonvpn.android",
+    "com.nordvpn.android",
+    "com.expressvpn.vpn",
+    "com.privateinternetaccess.android",
+    "com.wireguard.android",
+    "com.tunnelbear.android",
+    "com.cyberghost.lg",
+    "com.mullvad.vpn",
+    "net.openvpn.openvpn",
+    "com.samsung.android.app.galaxyfinder",
+    "com.samsung.android.contacts",
+    "com.samsung.android.app.smartcapture",
+    "com.samsung.android.aware.service",
+    "com.samsung.android.camerasdk",
+    "com.samsung.android.dlp.service",
+    "com.samsung.android.easysetup",
+    "com.samsung.android.fmm",
+    "com.samsung.android.game.gamebooster",
+    "com.samsung.android.game.gametools",
+    "com.samsung.android.incallui",
+    "com.samsung.android.knox.analytics.uploader",
+    "com.samsung.android.app.contacts",
+    "com.samsung.android.messaging",
+    "com.sec.android.app.myfiles",
+    "com.samsung.android.app.camera",
+    "com.sec.android.app.camera",
+    "com.samsung.android.calendar",
+    "com.samsung.android.app.notes",
+    "com.samsung.android.honeyboard",
+    "com.samsung.android.themestore",
+    "com.samsung.android.widgetapp.weather",
+    "com.samsung.android.smartswitch",
+    "com.sec.android.app.launcher",
+    "com.sec.android.provider.badge",
+    "com.sec.android.app.soundalive",
+    "com.sec.android.app.clockpackage",
+    "com.sec.factory",
+    "com.samsung.android.mdx.quickboard",
+    "com.samsung.android.app.settings.bixby",
+    "com.samsung.android.smartface",
+    "com.samsung.android.app.sharelive",
+    "com.samsung.android.service.stplatform",
+    "com.samsung.android.accessibility",
+    "com.miui.gallery",
+    "com.miui.securitycenter",
+    "com.miui.calculator",
+    "com.miui.compass",
+    "com.miui.weather2",
+    "com.miui.fmradio",
+    "com.miui.videoplayer",
+    "com.miui.player",
+    "com.miui.notes",
+    "com.miui.screenrecorder",
+    "com.miui.securitycenter.analytics",
+    "com.android.thememanager",
+    "com.miui.camera",
+    "com.mi.android.globalFileexplorer",
+    "com.miui.miservice",
+    "com.xiaomi.account",
+    "com.xiaomi.calendar",
+    "com.xiaomi.mipicks",
+    "com.xiaomi.simactivate.service",
+    "com.xiaomi.finddevice",
+    "com.miui.cloudservice",
+    "com.miui.cloudbackup",
+    "com.miui.core",
+    "com.miui.system",
+    "com.miui.extraphoto",
+    "com.miui.home",
+    "com.miui.analytics",
+    "com.huawei.android.launcher",
+    "com.huawei.camera",
+    "com.huawei.android.thememanager",
+    "com.huawei.gallery.app",
+    "com.huawei.android.internal.app",
+    "com.huawei.android.hwaps",
+    "com.huawei.appmarket",
+    "com.huawei.health",
+    "com.huawei.hms",
+    "com.huawei.hwid",
+    "com.huawei.systemmanager",
+    "com.huawei.android.FMRadio",
+    "com.huawei.calculator",
+    "com.huawei.deskclock",
+    "net.oneplus.launcher",
+    "com.oneplus.camera",
+    "com.oneplus.gallery",
+    "com.oneplus.filemanager",
+    "com.oneplus.deskclock",
+    "com.oneplus.calculator",
+    "com.oneplus.weather",
+    "com.oneplus.note",
+    "com.oneplus.screenrecord",
+    "com.oneplus.opbackup",
+    "com.oppo.launcher",
+    "com.coloros.camera",
+    "com.oppo.gallery3d",
+    "com.coloros.filemanager",
+    "com.coloros.calculator",
+    "com.coloros.deskclock",
+    "com.coloros.weather",
+    "com.heytap.market",
+    "com.heytap.cloud",
+    "com.oppo.ota",
+    "com.coloros.assistantscreen",
+    "com.coloros.backuprestore",
+    "com.coloros.oppomultiapp",
+    "com.vivo.launcher",
+    "com.vivo.camera",
+    "com.vivo.gallery",
+    "com.vivo.FileManager",
+    "com.bbk.calculator",
+    "com.bbk.calendar",
+    "com.bbk.theme",
+    "com.samsung.android.app.notes",
+    "com.huawei.notepad",
+    "com.oneplus.note",
+    "com.coloros.note",
+    "com.vivo.notes",
+    "com.vivo.weather",
+    "com.vivo.vstore",
+    "com.vivo.easyshare",
+    "com.vivo.globalsearch",
+    "com.vivo.pushservice",
+    "com.vivo.space",
+    "com.realmestore.app",
+    "com.realme.launcher",
+    "com.realmepay.payments",
+    "com.realme.filemanager",
+    "com.realme.market",
+    "com.realmecamera",
+    "com.realme.security",
+    "com.digibites.accubattery",
+    "com.facebook.adsmanager",
+    "com.miui.android.fashiongallery",
+    "com.miui.mediaeditor",
+    "com.longcheertel.midtest",
+    "de.rki.covpass.app",
+    "de.check24.check24"
+  ]
+}
